@@ -2,8 +2,8 @@
 export const metadata = {
   // 1. Template Title: Child pages will appear as "Dashboard | Seven Directions"
   title: {
-    template: '%s | MIGCO',
-    default: 'MIGCO ERP', // Fallback for the home page
+    template: '%s | Seven Directions',
+    default: 'Seven-Directions ERP', // Fallback for the home page
   },
   
   // 2. Contextual Description for your Construction Project

@@ -58,7 +58,7 @@ export default function ForgotPassword() {
       {/* Left Side Image */}
       <div className="hidden lg:block lg:w-[55%] relative overflow-hidden">
         <img
-          src="https://images.unsplash.com/photo-1541888946425-d81bb19240f5?q=80&w=2070&auto=format&fit=crop"
+          src="https://images.unsplash.com/photo-1626885930974-4b69aa21bbf9?q=80&w=746&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
           alt="Construction Site"
           className="absolute inset-0 w-full h-full object-cover"
         />
