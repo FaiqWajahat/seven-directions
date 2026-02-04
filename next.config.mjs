@@ -1,11 +1,5 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
-  // 1. Ignore ESLint warnings during build (so you can deploy)
-  eslint: {
-    ignoreDuringBuilds: true,
-  },
-
-  // 2. Your existing image configuration
   images: {
     remotePatterns: [
       {
